@@ -31,7 +31,7 @@ class NotificationScreen extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: ClipOval(
-              child: Image.asset('images/steena.jpg'),
+              child: Image.asset('images/doctor.jpg'),
             ),
           ),
         ],

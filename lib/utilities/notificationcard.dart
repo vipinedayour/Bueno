@@ -26,7 +26,7 @@ class NotificationCard extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 20),
             child: ClipOval(
-              child: Image.asset('images/steena.jpg'),
+              child: Image.asset('images/doctor.jpg'),
             ),
           ),
           Expanded(
