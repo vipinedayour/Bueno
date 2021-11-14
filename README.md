@@ -1,2 +1,2 @@
-# mega_mind
+# Mentalio
 mental health app
