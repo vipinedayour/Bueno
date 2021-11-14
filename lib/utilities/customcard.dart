@@ -36,7 +36,7 @@ class CustomCard extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   TextBuilder(
-                    text: 'Dr.Steena Xavier',
+                    text: 'Dr.Strange',
                     color: Colors.black,
                     fontWeight: FontWeight.w500,
                     fontsize: 20,
