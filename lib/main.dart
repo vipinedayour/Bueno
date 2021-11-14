@@ -22,11 +22,11 @@ class MyApp extends StatelessWidget {
       ),
       home: AnimatedSplashScreen(
         curve: Curves.easeInCirc,
-        splashIconSize: 150,
+        splashIconSize: 250,
         centered: true,
         duration: 2500,
         splashTransition: SplashTransition.fadeTransition,
-        splash: 'images/logo.png',
+        splash: 'images/logo.jpg',
         nextScreen: SignUp(),
       ),
     );
