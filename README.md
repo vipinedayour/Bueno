@@ -1,2 +1,2 @@
-# Mentalio
+# Bueno
 mental health app
