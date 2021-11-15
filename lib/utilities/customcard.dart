@@ -67,12 +67,15 @@ class CustomCard extends StatelessWidget {
                 ],
               ),
             ),
-            RoundTextContainer(
-              color: kLightBlue,
-              text: 'Book',
-              textColor: Colors.black,
-              width: 80,
-              height: 50,
+            Expanded(
+              child: Padding(
+                padding: const EdgeInsets.all(8.0),
+                child: RoundTextContainer(
+                  color: kLightBlue,
+                  text: 'Book',
+                  textColor: Colors.black,
+                ),
+              ),
             )
           ],
         ),
